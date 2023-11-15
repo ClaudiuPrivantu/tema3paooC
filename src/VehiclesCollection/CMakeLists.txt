@@ -1,0 +1,1 @@
+add_library(VehiclesCollection STATIC VehiclesCollection.cpp)

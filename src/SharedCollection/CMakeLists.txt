@@ -1,0 +1,1 @@
+add_library(SharedCollection STATIC SharedCollection.cpp)

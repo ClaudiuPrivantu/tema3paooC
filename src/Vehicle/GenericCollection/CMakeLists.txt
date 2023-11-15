@@ -1,0 +1,1 @@
+add_library(GenericCollection STATIC GenericCollection.cpp)
